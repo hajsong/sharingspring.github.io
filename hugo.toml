@@ -2,6 +2,7 @@
 baseURL = "https://example.com"
 title = "SharingSpring"
 theme = "port-hugo"
+publishDir = "docs"
 
 ############################# Plugins ##############################
 
