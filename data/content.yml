@@ -4,8 +4,8 @@ hero:
 
   # animated text loop
   occupations:
-    - 'English-speaking therapist'
-    - '한국어 심리상담'
+    - 'English Speaking Therapist in Seoul '
+    - 'In-Person & Online Therapy in Korea'
 
   # hero background image
   bg_image: 'images/green2.jpeg'
